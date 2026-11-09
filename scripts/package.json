@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "test:player": "vitest run tests/player.test.ts"
+  }
+}
